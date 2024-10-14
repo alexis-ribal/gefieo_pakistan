@@ -17,7 +17,7 @@ Source: https://www.protectedplanet.net/en/thematic-areas/wdpa?tab=WDPA
 6. Local Community Lands. LandMark data for Pakistan is not available.
 
 7. Indigenous Population and Local Communities (IPLC) hotspot. According to Zadi (2021), Pakistani law does not recognize indigenous people. Instead, the government tags these communities as tribal people, ethnic, or religious minorities. Although Zadi (2021) lists several IPLCs, only four were found with location information: Balochi, Kalash, Gilgit, and the communities that are part of the Federally Administered Tribal Areas (FATA).
-8. Sources: https://karachi.mid.ru/en/general-consulate/about_consulate_general/baluchistan; https://en.wikipedia.org/wiki/Federally_Administered_Tribal_Areas; https://www.travelertrails.com/gilgit-baltistan 
+8. Sources: https://www.researchgate.net/publication/357802893_Indigenous_Peoples_in_Pakistan_In_Consideration_of_the_Right_to_Cultural_Property_and_Identity; https://karachi.mid.ru/en/general-consulate/about_consulate_general/baluchistan; https://en.wikipedia.org/wiki/Federally_Administered_Tribal_Areas; https://www.travelertrails.com/gilgit-baltistan 
 
 9. Conflict events resulting in at least 1 fatality for different GEF periods.
 Source: https://acleddata.com/
